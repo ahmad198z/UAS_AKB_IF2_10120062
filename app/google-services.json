@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135734775836",
+    "firebase_url": "https://com-memo10120062-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "com-memo10120062",
+    "storage_bucket": "com-memo10120062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135734775836:android:e02eacf847867472620fd9",
+        "android_client_info": {
+          "package_name": "com.memo10120062"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135734775836-pao1qam2kl1fi37t71dseplq443iu0e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVE5VPma4WDfXGCDs2S7lcOsguynh3HqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135734775836-pao1qam2kl1fi37t71dseplq443iu0e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
